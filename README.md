@@ -3,7 +3,7 @@
 <h4 align="center">🌍 Remote-Ready · Open to Internships & Permanent Roles · Graduating Sep 2027</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/michael-ngwu-5436aa251/">
+  <a href="https://www.linkedin.com/in/michael-ngwu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ngwumichael08@gmail.com">
@@ -69,7 +69,7 @@ I am actively seeking **both remote internships and permanent entry-level roles*
 I am available for interviews at your earliest convenience. Reach out—I'd love to chat about how I can contribute to your team.
 
 📧 **Email**: [ngwumichael08@gmail.com](mailto:ngwumichael08@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/michael-ngwu-5436aa251](https://www.linkedin.com/in/michael-ngwu-5436aa251/)  
+🔗 **LinkedIn**: [linkedin.com/in/michael-ngwu](https://www.linkedin.com/in/michael-ngwu/)  
 💻 **GitHub**: [github.com/Adimoramma](https://github.com/Adimoramma)
 
 ---
